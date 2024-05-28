@@ -1,3 +1,6 @@
+# you need to run "pip install tkhtmlview" in the shell
+
+
 # Import necessary modules
 from tkinter import *
 from tkhtmlview import HTMLLabel
